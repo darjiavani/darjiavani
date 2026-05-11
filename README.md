@@ -52,7 +52,7 @@ GUI calculator built using Python Tkinter.
 
 # 🌐 Connect With Me
 
-* LinkedIn: [https://www.linkedin.com/](www.linkedin.com/in/avani-darji-2a86b831b)
+* LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/avani-darji-2a86b831b/)
 * GitHub: [https://github.com/darjiavani](https://github.com/darjiavani)
 
 ---
