@@ -1,10 +1,10 @@
 # Hi, I'm Darji Avani 👋
 
-*🎓 Computer Engineering Student
-*🐍 Python Developer
-*📊 Learning Data Analytics & Web Development
-*🚀 Building projects and improving problem-solving skills
-*💡 Open to internships and collaborations
+🎓 Computer Engineering Student
+🐍 Python Developer
+📊 Learning Data Analytics & Web Development
+🚀 Building projects and improving problem-solving skills
+💡 Open to internships and collaborations
 
 ---
 
