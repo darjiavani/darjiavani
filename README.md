@@ -96,16 +96,11 @@ A collection of Python projects created while learning programming, problem solv
 
 ## 🎯 Currently Learning
 
-```text
-Python
-   ↓
-Data Structures & Algorithms
-   ↓
-Web Development
-   ↓
-Data Science
-   ↓
-Artificial Intelligence & Machine Learning
+- 🐍 Python
+- 🧠 Data Structures & Algorithms
+- 🌐 Web Development
+- 📊 Data Science
+- 🤖 Artificial Intelligence & Machine Learning
 
 ---
 
@@ -122,9 +117,9 @@ Artificial Intelligence & Machine Learning
 
 ## 🚀 My Goals
 
-- Build more real-world projects
+- Build real-world projects
 - Participate in hackathons
-- Improve my DSA & problem-solving skills
+- Improve DSA & problem-solving skills
 - Learn advanced AI/ML concepts
 - Explore Data Analytics
 - Contribute to open-source projects
@@ -136,7 +131,7 @@ Artificial Intelligence & Machine Learning
 
 I believe in learning by building.
 
-Every project I create helps me understand something new, improve my coding skills, and become a better problem solver.
+Every project I create helps me learn something new, improve my coding skills, and become a better problem solver.
 
 ⭐ Building  
 📚 Learning  
@@ -146,7 +141,7 @@ Every project I create helps me understand something new, improve my coding skil
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: **Add your LinkedIn URL here**
+- 💼 LinkedIn: **https://www.linkedin.com/in/avani-darji-2a86b831b/**
 - 🐙 GitHub: [@darjiavani](https://github.com/darjiavani)
 
 ---
@@ -158,10 +153,10 @@ Every project I create helps me understand something new, improve my coding skil
 🤖 AI/ML Enthusiast  
 🌐 Web Development Learner  
 💡 Curious about technology  
-🚀 Always ready to learn and build
+🚀 Always learning and building
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+⭐ Thanks for visiting my profile!
 
 **Let's build something amazing together. 🚀**
